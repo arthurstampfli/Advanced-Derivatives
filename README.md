@@ -1,4 +1,4 @@
-# Advanced Derivatives – Quantitative Finance Projects
+# Advanced Derivatives 
 
 This repository contains a series of assignments from the Advanced Derivatives  course at EPFL.  
 The projects focus on the pricing, calibration, and numerical implementation of derivative models** used in modern quantitative finance.
