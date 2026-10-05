@@ -1,9 +1,9 @@
 # Advanced Derivatives 
 
 This repository contains a series of assignments from the Advanced Derivatives  course at EPFL.  
-The projects focus on the pricing, calibration, and numerical implementation of derivative models** used in modern quantitative finance.
+The projects focus on the pricing, calibration, and numerical implementation of derivative models used in modern quantitative finance.
 
-The implementations combine analytical derivations, stochastic modeling, and numerical methods** including Monte Carlo simulation and finite-difference schemes.
+The implementations combine analytical derivations, stochastic modeling, and numerical methods including Monte Carlo simulation and finite-difference schemes.
 
 ---
 
